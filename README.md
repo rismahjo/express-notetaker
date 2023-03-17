@@ -13,10 +13,12 @@
 ## Description
 A note taking app hosted using Express JS for quick notes you can add and delete with a simple click.
 
-## Demo
+## Screenshots
+![notetakerSS](https://user-images.githubusercontent.com/113956697/225775785-6eb55f21-a90b-4ad1-9750-b91760eeaf2a.PNG)
+![notetakerSS2](https://user-images.githubusercontent.com/113956697/225775794-cdc75af3-f319-465a-915e-8a6157a376c1.PNG)
 
 ## Installation
-To use this you must have Node installed as well as the required modules.
+If hosting the application yourself you must have the required Node modules installed using <code>npm install</code> and then running the server.js file through the terminal with the <code>node server.js</code> command. Then it will be hosted on localhost:(Your port number. 3001 by default).
 
 ## Usage
 The application is fairly simple to use, simply clicking the + to add a note and then saving it and later deleting by simply clicking on the red icon on the note.
